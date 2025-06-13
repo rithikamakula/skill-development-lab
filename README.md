@@ -45,7 +45,7 @@ bash
 
 CopyEdit
 
-git clone <https://github.com/rithikamakula/Skill-Development-Lab.git>
+git clone <https://github.com/rithikamakula/skill-development-lab.git>
 
 cd Skill-Development-Lab
 
