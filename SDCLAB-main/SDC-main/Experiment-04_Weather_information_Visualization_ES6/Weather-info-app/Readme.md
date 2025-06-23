@@ -46,6 +46,4 @@ License
 This project is licensed under the MIT License.
 
 Author
-•tarunteja
-•GitHub: Your GitHub Profile
-Feel free to contribute or suggest improvements!
+rithika makuka
