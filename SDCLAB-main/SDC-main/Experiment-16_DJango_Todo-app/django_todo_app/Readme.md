@@ -77,8 +77,5 @@ http://127.0.0.1:8000/
 LICENSE
 This project is licensed under the MIT License.
 
-Contributing
-Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
-
 Author
-•tarunteja
+rithika makula
